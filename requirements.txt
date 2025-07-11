@@ -6,4 +6,5 @@ catboost
 xgboost
 seaborn
 dill
+flask
 -e .
